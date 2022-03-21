@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VqVSFJ8gAa3MiU/SVBfQUiXy1hMeEVgKLM57veR4LMaUlhuYmpVf9l94W4FhBnSujft5OV8GzF2LWPs+5yCFkw==",
+  "dgSpecHash": "rZXZ+NW6u2i9dxZUHAZclX3WXGaFYYNTf17c0LxnvEZN/0DVB5RnpamQWG3FFAQWB05y69HXVx3X9su8/2fEeg==",
   "success": true,
   "projectFilePath": "C:\\Learning\\MicroServices\\DotNetMicroServices\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ngujjala\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
   "logs": []
 }
